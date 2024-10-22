@@ -1,7 +1,4 @@
-''' Name: Morgan Harper
-
-Program is about ....
-'''
+''' Name: Morgan Harper '''
 
 # Half adder circuit
 def halfAdder(a, b):
